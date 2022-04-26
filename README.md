@@ -1,3 +1,6 @@
+# MBUNJI, MBUNJI M.
+# 2020-04-06542
+
 # CS 234 Lab 1: Hello World"
 
 ## 1. Preliminaries
